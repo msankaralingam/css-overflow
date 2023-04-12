@@ -1,0 +1,63 @@
+*{
+         padding:10px;
+          margin:10px 10px;		 
+	
+}
+.no1{
+	  margin:15px 15px;
+	  width:10%;
+	  height:30px;
+	  border: 1px solid green;
+	  overflow:hidden;
+	  background-color:red;
+}
+
+
+.no2{
+	  	  margin:15px 15px;
+      width:10%;
+	  height:30px;
+	  border: 1px solid green;
+	  overflow:visible;
+	  background-color:red;
+}
+
+.no3{
+	  	  margin:15px 15px;
+      width:10%;
+	  height:30px;
+	  border: 1px solid green;
+	  overflow-x:scroll;
+	  background-color:red;
+}
+
+
+.no4{ 
+      	  margin:15px 15px;
+      width:10%;
+	  height:30px;
+	  border: 1px solid green;
+	  overflow-y:scroll;
+	  background-color:red;
+}
+
+
+.no5{
+	  	  margin:15px 15px;
+      width:10%;
+	  height:30px;
+	  border: 1px solid green;
+	  overflow:auto;
+	  background-color:red;
+}
+
+
+.no6{
+	 	  margin:15px 15px;
+      width:10%;
+	  height:30px;
+	  border: 1px solid green;
+	  overflow:clip;
+	  background-color:red;
+}
+
